@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omaziupa.github.io/UYN/sitemap_index.txt
+Sitemap: https://omaziupa.github.io/VbX/sitemap_index.txt
+Sitemap: https://omaziupa.github.io/WZH/sitemap_index.txt
+Sitemap: https://omaziupa.github.io/ctU/sitemap_index.txt
